@@ -27,7 +27,6 @@ codecov
 
 # Config files
 !/.env.sample
-/.env
 /.env-*
 /.env_*
 /.env_*
@@ -42,7 +41,6 @@ debug.log
 
 # No editor related files
 .idea
-.vscode
 *.swp
 
 # Plugin related
@@ -53,3 +51,7 @@ debug.log
 cypress/videos
 cypress/screenshots
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
